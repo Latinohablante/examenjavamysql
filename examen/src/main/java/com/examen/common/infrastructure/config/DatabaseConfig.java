@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class dbConnection {
+public class DatabaseConfig {
 
     // acceder a mysql: mysql -u campus2023 -p
     // contraseña: campus2023
